@@ -4,7 +4,7 @@
 // Created on: Oct 2022
 // This file contains the JS functions for index.html
 
-'use strict'
+"use strict"
 /**
-  * This function calculates area of a triangle.
-  */
+ * This function calculates area of a triangle.
+ */
