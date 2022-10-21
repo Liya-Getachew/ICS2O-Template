@@ -7,7 +7,7 @@
 "use strict"
 
 /**
- * Check service worker.
+ * Check servie worker.
  */
 if (navigator.serviceWorker) {
   navigator.serviceWorker.register("/ICS2O-Template/sw.js", {
