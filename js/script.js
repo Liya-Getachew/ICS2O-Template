@@ -20,4 +20,4 @@ if (navigator.serviceWorker) {
  */
 function myButtonClicked() {
   document.getElementById("hello-world").innerHTML = "<p>Told you :)</p>"
-  }
+}
